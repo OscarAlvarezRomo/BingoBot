@@ -1,0 +1,19 @@
+{
+  "name": "bingobot",
+  "version": "1.0.0",
+  "description": "Bot para jugar al bingo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscarAlvarezRomo/BingoBot.git"
+  },
+  "author": "Oscar Alvarez Romo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OscarAlvarezRomo/BingoBot/issues"
+  },
+  "homepage": "https://github.com/OscarAlvarezRomo/BingoBot#readme"
+}
